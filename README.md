@@ -1,4 +1,4 @@
-# IPSAdguard
+# IPS-Adguard
 
 Folgende Module beinhaltet das IPSAdguard Repository:
 
