@@ -1,0 +1,12 @@
+{
+    "id": "{0C15130C-5991-2022-E9F9-80845492BE07}",
+    "name": "Adguard",
+    "type": 3,
+    "vendor": "",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ADG",
+    "url": ""
+}

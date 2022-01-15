@@ -1,0 +1,12 @@
+{
+    "id": "{7A53D087-597C-6BE4-A0EF-BFD624E9BB55}",
+    "name": "IPSAdguard",
+    "author": "Michael Westphal",
+    "url": "",
+    "compatibility": {
+        "version": "6.0"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}
