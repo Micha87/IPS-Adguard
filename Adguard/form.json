@@ -1,5 +1,11 @@
 {
-    "elements": [],
-    "actions": [],
+    "elements": [
+        { "type": "ValidationTextBox", "name": "IPAddress", "caption": "Host" },
+        { "type": "ValidationTextBox", "name": "User", "caption": "User" },
+        { "type": "PasswordTextBox", "name": "Password", "caption": "Passwort" }
+
+    ],
+    "actions": [          
+    ],
     "status": []
 }
