@@ -1,11 +1,16 @@
 {
     "elements": [
+       
         { "type": "ValidationTextBox", "name": "IPAddress", "caption": "Host" },
         { "type": "ValidationTextBox", "name": "User", "caption": "User" },
-        { "type": "PasswordTextBox", "name": "Password", "caption": "Passwort" }
+        { "type": "PasswordTextBox", "name": "Password", "caption": "Passwort" },
+        { "type": "IntervalBox","name": "UpdateTimerInterval","caption": "Seconds"}
 
     ],
-    "actions": [          
+    "actions": [   
+        
+        { "type": "Button", "label": "Update data", "onClick": "ADG_updateStatus($id);" }
+
     ],
     "status": []
 }
